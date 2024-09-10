@@ -1,3 +1,5 @@
+https://buymeacoffee.com/pankajkumarr
+
 # 💫 About Me:
 🔭 I’m currently working on:  <br>- An Online Event Management System using C#, .NET Core, HTML, CSS, JavaScript, and SQL Server.<br>- An Angular login project integrated with C# .NET Core Web API and SQL Server for authentication.<br><br>👯 I’m looking to collaborate on:  <br>- Full-stack development projects, especially those using .NET Core, Angular, or AI-based applications.<br><br>🤝 I’m looking for help with:  <br>- Optimizing front-end performance in Angular.<br>- Improving the architecture of complex .NET Core systems.<br><br>🌱 I’m currently learning:  <br>- Angular and Node.js, focusing on mastering full-stack development.<br>- Advanced concepts in C#, .NET Core, and ASP.NET.<br><br>💬 Ask me about:  <br>- C# .NET Core development, building REST APIs, and full-stack web applications.<br>- SQL Server database management and front-end technologies like JavaScript, HTML, and CSS.<br><br>⚡ Fun fact:  <br>- I enjoy solving complex problems and love learning new technologies to build innovative solutions!
 
